@@ -1,3 +1,4 @@
-build
-dist
-*.egg-
+build/
+dist/
+zaki.egg-info/
+.gitignore
