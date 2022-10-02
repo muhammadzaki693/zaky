@@ -5,7 +5,7 @@ with open("zaki_project/README.md", "r") as fhandle:
 
 setuptools.setup(
     name="zaki", # Put your username here!
-    version="0.0.1", # The version of your package!
+    version="0.0.5", # The version of your package!
     author="muhammad zaky ramadhan", # Your name here!
     author_email="rzaki9353@gmail.com", # Your e-mail here!
     description="A small pack of function", # A short description here!

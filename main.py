@@ -10,6 +10,9 @@ Created by @IreTheKID
 
 import os
 
+os.system("rm -r dist")
+os.system("rm -r zaki.egg-info")
+os.system("rm -r build")
 os.system('pip install --upgrade pip')
 os.system('pip install wheel')
 os.system('pip install twine')
